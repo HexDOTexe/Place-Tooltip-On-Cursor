@@ -1,4 +1,6 @@
-Does exactly what it says it does. Anchors world cursor and hotbar cursor tooltips to the mouse, with a minor offset of personal preference.
+Does exactly what it says it does. 
+
+Anchors world cursor and hotbar cursor tooltips to the mouse, with a minor offset of personal preference.
 
 For Mists of Pandaria Classic [50500]
 
