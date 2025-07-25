@@ -1,0 +1,4 @@
+## Title: Place Tooltip On Cursor
+## Interface: 50500
+
+## Notes: |A:4259:19:19|a An addon which places the tooltip anchor on the cursor
