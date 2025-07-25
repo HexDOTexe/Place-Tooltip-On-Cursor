@@ -1,4 +1,5 @@
 ## Interface: 50500
 ## Title: Place Tooltip On Cursor
+## Version: 1.0.0
 ## Notes: A plugin which places the tooltip anchor on the cursor.
 core.lua
