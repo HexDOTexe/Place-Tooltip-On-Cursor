@@ -11,4 +11,4 @@ Copy the included folder to your Classic Era AddOns folder:
 </b>
 <br>
 > [!WARNING]
-Make sure not to copy the top-level "Place-Tooltip-On-Cursor-1.x.x" folder if downloading the .zip
+Make sure not to copy the top-level "Place-Tooltip-On-Cursor-1.x.x" folder if downloading the source code .zip
