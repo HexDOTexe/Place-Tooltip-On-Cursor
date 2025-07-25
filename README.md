@@ -1,6 +1,6 @@
 Does exactly what it says it does. 
 
-<img width="350" height="401" alt="image" src="https://github.com/user-attachments/assets/bccef55f-b7a0-4e85-b69c-e7caa3a32b08" />
+<img width="311" height="333" alt="{500DA6D9-B60C-4806-8675-8E2B6D546374}" src="https://github.com/user-attachments/assets/8a337fd4-45bc-424c-bab7-01f2d65feb56" />
 
 Anchors world cursor and hotbar cursor tooltips to the mouse, with a minor offset of personal preference.
 
