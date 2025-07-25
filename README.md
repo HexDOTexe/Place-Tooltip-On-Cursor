@@ -7,7 +7,8 @@ For Mists of Pandaria Classic [50500]
 Copy the included folder to your Classic Era AddOns folder:
 <br>
 <b>
-  ...\World of Warcraft\_classic_\Interface\AddOns\Place Tooltip On Cursor
+  `...\World of Warcraft\_classic_\Interface\AddOns\Place Tooltip On Cursor`
 </b>
 <br>
-(Make sure not to copy the top-level "Place-Tooltip-On-Cursor-1.x.x" folder if downloading the .zip)
+> [!WARNING]
+Make sure not to copy the top-level "Place-Tooltip-On-Cursor-1.x.x" folder if downloading the .zip
